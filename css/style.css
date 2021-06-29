@@ -1,0 +1,15 @@
+body{
+    background-color:#EAF6F6;
+}
+hr{
+    border-style: none;
+    width: 5%;
+    border-width: 5px;
+    border-style: dotted none none none;
+    border-color: gray;
+}
+h1,h3{
+    /* text-decoration-color: green; */
+    /* text-decoration: #66bfbf; */
+    color: #66bfbf;
+}
